@@ -13,10 +13,10 @@ AI/ML & Full-Stack Software Engineer with a focus on **Multi-Agent Systems, MLOp
 
 ### 🛠️ Tech Stack & Skills
 
-* **Languages:** Python, Java, C++, SQL
-* **AI/ML & MLOps:** LangGraph, LangChain, RAG, OpenCV, ChromaDB, HuggingFace, PyTorch
-* **Backend & Web:** FastAPI, Spring Boot, Streamlit, REST APIs
-* **Cloud & DevOps:** Docker, AWS (EC2, RDS, CloudFront), Git/GitHub
+* **Languages:** Java, SQL, Python, JavaScript, C/C++
+* **Frameworks & Web:** Spring Boot, FastAPI, REST APIs, React.js, Node.js, Tailwind CSS, Streamlit
+* **AI/ML & Processing:** LangGraph, LangChain, RAG Pipelines, Speech & Audio Analysis, OpenCV, ChromaDB, HuggingFace
+* **Developer Tools & DevOps:** Docker, Docker Compose, Git, Jenkins CI/CD, Kubernetes (basics), MySQL, MongoDB
 
 ---
 
