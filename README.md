@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, I'm Sanjivni 👋
 
-<!--
-**sanjivni2004/sanjivni2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML & Full-Stack Software Engineer with a focus on **Multi-Agent Systems, MLOps, Computer Vision, and Microservices Architecture**. 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Technical Highlights & Projects
+
+* **🛡️ [Multi-Agent Regulatory Compliance Auditor](https://github.com/sanjivni2004/compliance-auditor):** Enterprise compliance engine built with LangGraph, LangChain, FastAPI, Streamlit, and ChromaDB (Llama 3 RAG pipeline). Fully containerized with Docker.
+* **🎟️ [Smart Queue Management System](https://github.com/sanjivni2004/smartqueue):** High-throughput RESTful backend built with Java 17, Spring Boot, and Spring Data JPA managing stateful token transitions and counter queues.
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+* **Languages:** Python, Java, C++, SQL
+* **AI/ML & MLOps:** LangGraph, LangChain, RAG, OpenCV, ChromaDB, HuggingFace, PyTorch
+* **Backend & Web:** FastAPI, Spring Boot, Streamlit, REST APIs
+* **Cloud & DevOps:** Docker, AWS (EC2, RDS, CloudFront), Git/GitHub
+
+---
+
+### 📫 Connect with Me
+
+* **LinkedIn:** [in/sanjivni-katiyar](https://www.linkedin.com/in/sanjivni-katiyar-a82b8622a)
+* **GitHub:** [@sanjivni2004](https://github.com/sanjivni2004)
