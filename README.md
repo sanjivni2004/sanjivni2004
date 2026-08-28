@@ -1,6 +1,6 @@
 # Hi there, I'm Sanjivni 👋
 
-AI/ML & Full-Stack Software Engineer with a focus on **Multi-Agent Systems, LLM Security & Guardrails, MLOps, Computer Vision, and Microservices Architecture**. 
+AI/ML & Full-Stack Software Engineer with a focus on **Multi-Agent Systems, LLM Security & Guardrails, MLOps and Microservices Architecture**. 
 
 ---
 
